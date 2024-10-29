@@ -21,7 +21,7 @@
   "author": "aspulse <aspulse.x@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.0.0",
+    "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^5.33.0",
     "@typescript-eslint/parser": "^5.29.0",
     "dts-bundle-generator": "^6.12.0",
