@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "better-object-constructor": "^1.0.0",
-    "runtypes": "^6.6.0"
+    "runtypes": "^7.0.0"
   },
   "scripts": {
     "lint": "eslint src/**/*.ts --fix",
